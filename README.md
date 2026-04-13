@@ -1,2 +1,16 @@
-# MISUO-Sales-Analysis-Excel
-"Interactive Excel Dashboard for analyzing MISUO sales performance, delivery rates, and regional trends."
+# MISUO Sales Analysis Dashboard (Excel)
+
+## Project Overview
+This project analyzes the sales performance for **MISUO**. It provides key insights into total revenue, delivery performance, and regional sales distribution.
+
+## Key Insights:
+* **Total Sales:** 1,279,019 EGP.
+* **Delivery Status:** 82% of orders were successfully delivered.
+* **On-time Delivery:** 52% of orders were on time, identifying an area for logistics improvement.
+* **Sales by Platform:** HomeMart is the leading platform for sales.
+
+## Tools Used:
+* Microsoft Excel (Pivot Tables, Slicers, Data Modeling).
+
+## Dashboard Preview:
+![MISUO Dashboard](لقطة شاشة 2026-04-13 083921.png)
