@@ -13,4 +13,4 @@ This project analyzes the sales performance for **MISUO**. It provides key insig
 * Microsoft Excel (Pivot Tables, Slicers, Data Modeling).
 
 ## Dashboard Preview:
-![MISUO Dashboard](لقطة شاشة 2026-04-13 083921.png)
+![MISUO Dashboard](لقطة%20شاشة%202026-04-13%20083921.png)
